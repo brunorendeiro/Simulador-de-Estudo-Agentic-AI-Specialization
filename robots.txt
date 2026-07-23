@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simulador-de-estudo-agentic-ai-spec.vercel.app/sitemap.xml
